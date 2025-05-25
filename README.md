@@ -17,7 +17,7 @@ A console-based Python application for managing student records. Uses **Object-O
 
 ### 🔧 Installation & Usage  
 ```bash
-git clone https://github.com/Oleg-Dergunov/StudentRecordSystem.git  
+git clone https://github.com/Oleg-Dergunov/Student-Record-System.git  
 cd StudentRecordSystem  
 pip install tabulate  
 python student_record_system.py
